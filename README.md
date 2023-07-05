@@ -4,7 +4,7 @@
 
 техники эквивалентного разбиения,
 причина/следствие анализ граничных значений
-Тесты настроены на запуск через терминал python -m pytest -v --driver Chrome --driver-path chromedriver.exe tests_SF_RT.py
+Тесты настроены на запуск через терминал python -m pytest -v --driver Chrome --driver-path chromedriver.exe tests_RT_SF.py
 
 base_data.py - базовые классы, процедуры, функции и локаторы для автотестов settings.py - регистрационные данные для позитивных тестов авторизации tests_SF_RT.py - набор автотестов
 
